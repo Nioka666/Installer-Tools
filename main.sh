@@ -15,9 +15,9 @@ yellow="\033[33;1m"
 clear
 figlet -f bigmono9 "Cy#b3rXide" | lolcat
 echo "\033[31;1m<[=====================================[>"|lolcat
-echo "\033[31;1m  =       Coded by: Cy#b3rXide        ="
+echo "\033[31;1m  =       Coded by: Nioka666        ="
 echo "\033[37;1m  =     Contact me 085755809874       ="
-echo "\033[31;1m  =       Thanks To Allah SWT         ="
+echo "\033[31;1m  =       Thanks for you All          ="
 echo "\033[31;1m<]=====================================[>"|lolcat
 sleep 1
 echo   $yellow"   {"$green"#"$yellow"}"$white"Silahkan pilih toolsnya ea"
