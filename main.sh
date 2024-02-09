@@ -1,4 +1,4 @@
-#!/system/xbin/bash
+h#!/system/xbin/bash
 blue="\033[34;1m"
 green="\033[32;1m"                                        
 purple="\033[35;1m"
@@ -1401,24 +1401,11 @@ echo "\033[33;1mCoded By: Cy#b3rXide"
 sleep 1
 echo "\033[32;1mVersi: v1.0"
 sleep 1
-echo "\033[34;1mCode : Bash"
-echo "\033[31;1mTools Ini Murni Buatan Saya Sendiri, Saya Tidak menrecode tools lain.."
-sleep 1
 echo "\033[36;1mMe From Xploiter Hacker Team"
 echo "\033[36;1mWe Learn Hacking From Newbie To Mastah"
 echo "<(-(----------------------------------------)-)>"
 echo "\033[36;1mGreets"
-echo "-Nabi Muhammad Saw"
-echo "-DARK0CT02"
-echo "Mr.Z4K4R14"
-echo "MR.LINUX45"
-sleep 1
-echo "And All Member Xploiter Hacker Team"
-echo "gunakan dengan bijak ea  :)"
-echo "\033[30;1m tunggu 10 detik"
-sleep 10
-sh Cyb3rXide.sh
-fi
+
 
 
 
