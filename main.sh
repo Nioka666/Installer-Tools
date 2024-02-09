@@ -1,10 +1,4 @@
 #!/system/xbin/bash
-#JanganRecodYaNjenkCok
-#DanToolsIniBukanHasilRecod
-#SayaNgodingSendiri
-#KaloRecodBuatPrivasiAja
-#BelajarNjenkPunyaOtakBuatApa
-#////////////////////////////////////////HARGAI PEMBUAT COKK\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 blue="\033[34;1m"
 green="\033[32;1m"                                        
 purple="\033[35;1m"
